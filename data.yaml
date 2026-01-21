@@ -1,0 +1,13 @@
+# your dataset path
+path: ./
+train: images/train
+val: images/val
+test: images/test
+
+#1:Dataset A
+nc: 8
+names: ['Amata emma','Aulacophora lewisii','Pentatomidae','Reduviidae','Striped flea beetle','Arctia','Apis','Coccinellidae']
+
+##2: Dataset B
+# nc: 7
+# names: ['Leconte','Boerner','Linnaeus','Armandi','Coleoptera','Acuminatus','linnaeus']
